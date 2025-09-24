@@ -1,1 +1,2 @@
 obsidiandynamics/kafdrop:4.2.0
+clickhouse:25.8.4
