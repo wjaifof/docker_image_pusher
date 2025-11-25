@@ -1,2 +1,2 @@
-qwen-mode-2.5-3b:latest
-qwen-mode:2.5-1.5B-speed-2
+qwen-2.5-3b:latest
+qwen-2.5-1.5b:latest
