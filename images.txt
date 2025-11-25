@@ -1,1 +1,2 @@
-qwenllm/qwen-omni:2.5-cu121
+qwen-mode-2.5-3b:latest
+qwen-mode:2.5-1.5B-speed-2
