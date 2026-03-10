@@ -1,1 +1,14 @@
-node:18-bullseye-slim
+k8s.gcr.io/kube-apiserver:v1.34.6
+k8s.gcr.io/kube-controller-manager:v1.34.6
+k8s.gcr.io/kube-scheduler:v1.34.6
+k8s.gcr.io/kube-proxy:v1.34.6
+k8s.gcr.io/pause:3.10.1
+k8s.gcr.io/etcd:3.5.10-0
+k8s.gcr.io/coredns/coredns:v1.10.1
+docker.io/calico/node:v3.27.4
+docker.io/calico/cni:v3.27.4
+docker.io/calico/kube-controllers:v3.27.4
+docker.io/containerd/containerd:1.7.8
+docker.io/cri-tools/cri-tools:v1.34.0
+kubernetesui/dashboard:v2.7.0
+kubernetesui/metrics-scraper:v1.0.8
