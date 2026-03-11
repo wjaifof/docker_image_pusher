@@ -1,6 +1,1 @@
-docker.io/calico/node:v3.27.4
-docker.io/calico/cni:v3.27.4
-docker.io/calico/kube-controllers:v3.27.4
-docker.io/cri-tools/cri-tools:v1.34.0
-kubernetesui/dashboard:v2.7.0
-kubernetesui/metrics-scraper:v1.0.8
+flink:1.19.3-scala_2.12-java17
