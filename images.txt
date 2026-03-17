@@ -1,1 +1,1 @@
-ghcr.io/altinity/clickhouse-exporter
+f1yegor/clickhouse-exporter
