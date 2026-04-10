@@ -1,2 +1,2 @@
-loki:2.9.8
-promtail:2.9.8
+grafana/loki:2.9.8
+grafana/promtail:2.9.8
