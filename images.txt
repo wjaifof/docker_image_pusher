@@ -1,1 +1,3 @@
-dabealu/zookeeper-exporter:v0.1.13
+elasticsearch:9.1.4
+kibana:9.1.4
+logstash:9.1.4
