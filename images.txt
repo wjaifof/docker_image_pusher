@@ -1,1 +1,1 @@
-opsgenie/kubernetes-event-exporter:0.11.0
+ghcr.io/resmoio/kubernetes-event-exporter:v1.7
